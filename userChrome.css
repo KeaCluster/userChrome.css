@@ -12,6 +12,6 @@
 }
 
 .tab-background[selected="true"]{
-    background-image: linear-gradient(to bottom, #ffffff2f 0%, #292d3e 90%) !important;
+    /* background-image: linear-gradient(to bottom, #ffffff2f 0%, #292d3e 90%) !important; */
     background-size: cover !important;
 }
