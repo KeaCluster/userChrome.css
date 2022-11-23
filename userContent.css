@@ -18,14 +18,14 @@
 
 @-moz-document url('about:home'), url('about:newtab') {
     body{
-        background: linear-gradient(to bottom, #292d3e 5%, #292d3ea6 100%), url('images/sky.jpg') !important;
+        background: linear-gradient(to bottom, #292d3e 5%, #292d3ea6 100%), url('images/keyboard.jpg') !important;
         background-size: cover !important;
     }
 }
 
 @-moz-document url('about:privatebrowsing') {
     body{
-        background: linear-gradient(to bottom, #292d3e 5%, #292d3ea6 100%), url('images/yosemite.jpg') !important;
+        background: linear-gradient(to bottom, #292d3e 5%, #292d3ea6 100%), url('images/water.jpg') !important;
         background-size: cover !important;
     }
 }
