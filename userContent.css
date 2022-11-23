@@ -2,8 +2,8 @@
     /* .search-wrapper .logo-and-wordmark { 
         justify-content: left !important;
     } */
-    .search-inner-wrapper, .logo {
-        display:none!important; 
+    .search-inner-wrapper, .logo, .title, .top-sites-list {
+        display: none !important; 
     }
     .logo-and-wordmark {
         margin-bottom: 0 !important;
